@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0572-subtree-of-another-tree](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
