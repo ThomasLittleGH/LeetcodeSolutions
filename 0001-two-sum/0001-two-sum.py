@@ -5,7 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)-1):
-            for j in range(i+1,len(nums)):
-                if nums[i]+nums[j] == target:
-                    return i, j
+        if len(nums)==2 and (nums[0]+nums[1]==target):
+            return 0,1
+        n = (len(nums)) - 1
+        while(n!=0):
+            if (target-nums[n])in nums:
+                if nums.index(target-nums[n])!=n:
+                    return nums.index(target-nums[n]),n
+            n = n - 1
