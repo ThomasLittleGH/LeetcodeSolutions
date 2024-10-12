@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
