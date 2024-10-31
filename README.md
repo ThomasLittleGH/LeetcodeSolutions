@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
