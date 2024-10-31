@@ -1,17 +1,18 @@
 class Solution(object):
     def permute(self, nums):
-        self.o = []
-        def rec(arr, nums):
-            if not nums:
-                self.o.append(arr[:])
+        self.output = []
+        self.nums = nums
+        self.backtrack(0, len(nums))
+        return self.output
             
-            for index in range(len(nums)):
-                n_copy = nums[:]
-                num = n_copy.pop(index)
-                rec(arr + [num], n_copy)
-                
-        rec([], nums)
-        return self.o
+    def backtrack(self, start, finish):
+        if start == finish:
+            self.output.append(self.nums[:])
+        
+        for i in range(start, finish):
+            self.nums[start], self.nums[i] = self.nums[i], self.nums[start]
+            self.backtrack(start + 1, finish)
+            self.nums[start], self.nums[i] = self.nums[i], self.nums[start]
 
 
         
