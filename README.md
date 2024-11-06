@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
