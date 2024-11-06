@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0046-permutations) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/0046-permutations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/ThomasLittleGH/LeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
